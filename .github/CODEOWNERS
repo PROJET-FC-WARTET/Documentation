@@ -1,0 +1,9 @@
+# CODEOWNERS — Dépôt Documentation
+# Toute la documentation est sous la responsabilité du compte ProjetClasse.
+# Les professeurs seront ajoutés ultérieurement.
+
+# Règle par défaut : tout le dépôt
+* @ProjetClasse
+
+# Le cahier des charges est un document critique
+/CAHIER-DES-CHARGES/* @ProjetClasse
