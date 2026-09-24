@@ -3,7 +3,7 @@
 # Les professeurs seront ajoutés ultérieurement.
 
 # Règle par défaut : tout le dépôt
-* @ProjetClasse
+* @ProjetClasse @BlacksheepMaster
 
 # Le cahier des charges est un document critique
 /CAHIER-DES-CHARGES/* @ProjetClasse
