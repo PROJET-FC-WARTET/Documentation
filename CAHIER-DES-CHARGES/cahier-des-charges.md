@@ -13,7 +13,7 @@ Le club Wartet FC souhaite se doter d'un **site web vitrine** et d'un **ERP (ges
 - Moderniser son image (inspiration Premier League, ambiance "jour de match").
 - Centraliser la gestion sportive (équipes, présences, agendas).
 - Faciliter la communication avec les parents.
-- Gérer la vie du club (événements, buvette, boutique).
+- Gérer la vie du club (événements, buvette, dressing).
 
 **Mot d'ordre :** *"Make Wartet feel like a club."*
 
@@ -34,7 +34,7 @@ Le club Wartet FC souhaite se doter d'un **site web vitrine** et d'un **ERP (ges
 - Caisse enregistreuse connectée.
 - E-commerce (vente en ligne).
 - Application mobile native.
-
+- Pas d'arbitrage.
 ---
 
 ## 3. Acteurs et rôles
