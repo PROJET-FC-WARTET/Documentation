@@ -1,7 +1,7 @@
 # Cahier des charges — Projet Wartet FC
 
 **Version :** 1.0
-**Date :** [19/09/2026]
+**Date :** [24/09/2026]
 **Client :** Royale Entente Wartet F.C.
 **Contact :** [Frédéric]
 
@@ -39,24 +39,27 @@ Le club Wartet FC souhaite se doter d'un **site web vitrine** et d'un **ERP (ges
 
 ## 3. Acteurs et rôles
 
-| Acteur | Rôle | Accès | Accès refusé | 
-| :--- | :--- | :--- | :--- |
-| **Admin / Webmaster** | Gérer le site et les comptes | Accès total | — |
-| **Coordinateur** | Décisions sportives | Équipes, agendas, présences — **pas** de finances | Trésorerie, vente de produits, stock |
-| **Coach** | Gérer son équipe | Équipe, présences, parents | Autres équipes, finances |
-| **Délégué au terrain** | Accueil, image du club | Agenda, contacts | Finances, admin |
-| **Gestionnaire Event** | Annonces, calendrier | Événements, pub | Données sportives sensibles |
-| **Responsable club** | Chiffres, stock, fournisseurs | Données de gestion | À préciser |
-| **Employé (buvette)** | Vente, stock | Stock, caisse | Gestion sportive |
-| **Bénévole** | Aide ponctuelle | Pointage | Tout le reste |
-| **Parent** | Suivre son enfant | Ses enfants uniquement | Informations de l'autre parent, autres enfants  - tout ce qui concerne la gestion du club.|
-| **Joueur (majeur)** | Suivre sa pratique | Ses données | tout ce qui concerne la gestion du club. |
+| Acteur | Rôle | Accès |
+| :--- | :--- | :--- |
+| **Admin / Webmaster** | Gérer le site et les comptes | Accès total, gestion des logs, sauvegardes, paramètres généraux |
+| **Coordinateur** | Décisions sportives | Équipes, agendas, présences — **pas** de finances |
+| **Coach** | Gérer son équipe | Équipe, présences, parents, modifier/annuler matchs, envoyer messages, stats joueurs, valider présences parentales |
+| **Délégué au terrain** | Accueil, image du club | Agenda, contacts |
+| **Gestionnaire Event** | Annonces, calendrier | Événements, pub |
+| **Responsable club** | Chiffres, stock, fournisseurs | Données de gestion, validation inscriptions, communication globale (newsletter) |
+| **Trésorier** | Gestion financière | Cotisations, paiements (rôle attribué au Responsable Club pour l'instant) |
+| **Employé (buvette)** | Vente, stock | Stock, caisse |
+| **Bénévole** | Aide ponctuelle | Pointage, inscription à des créneaux (à préciser) |
+| **Arbitre** | Arbitrage des matchs | Consultation des joueurs en match, cartons (rouge/jaune) |
+| **Joueurs / Parents** | Suivre son enfant / sa pratique | Calendrier, convocations, présences, mise à jour des coordonnées, consultation des documents (règlement) |
 
 **Règles importantes :**
 - Un utilisateur peut avoir **plusieurs rôles**.
 - Le **Coordinateur** ne voit **pas** les données financières.
 - Un **parent** ne voit **pas** les informations de l'autre parent (cas des divorces).
 - La liste des acteurs doit être **extensible** (le club peut grandir).
+- Les rôles **Joueurs** et **Parents** sont fusionnés.
+
 
 ---
 
@@ -103,7 +106,9 @@ Le club Wartet FC souhaite se doter d'un **site web vitrine** et d'un **ERP (ges
 - [ ] Qui attribue les dotations et comment on trace qui a reçu quoi ?
 - [ ] Comment gère-t-on la mise à jour du catalogue des objets à vendre ?
 - [ ] Les parents doivent-ils avoir un compte, ou tout passe-t-il par WhatsApp ?
-
+- [ ] Quel est le rôle exact des **Bénévoles** ? (Que peuvent-ils voir ou faire ?)
+- [ ] La fonctionnalité **Newsletter** est-elle confirmée ?
+- [ ] L'**Arbitre** doit-il voir les cartons des matchs précédents pour gérer les suspensions ?
 ---
 
 ## 7. Livrables attendus
