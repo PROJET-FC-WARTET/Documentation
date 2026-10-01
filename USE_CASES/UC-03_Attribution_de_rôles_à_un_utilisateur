@@ -1,0 +1,22 @@
+# UC-XX : [Nom du Use Case]
+
+**Acteur principal :** [Admin]
+**Objectif :** [Ajouter un rôle]
+**Préconditions :** [Être admin]
+
+## Scénario nominal (étapes)
+1. L'utilisateur fait une demande à l'admin pour qu'il lui crée un compte. 
+2. L'Admin vérifie les besoins et droits de l'utilisateur(en fonction de son statut dans le club)
+3. Si l'utilisateur est élligible, l'admin crée un compte au nom de l'utilisateur et lui attribue ses droits
+
+## Scénarios alternatifs
+- **Xa. [Cas d'erreur] :** [L'utilisateur n'est pas élligible]
+- **Xb. [Autre cas] :** [Ex: Données manquantes]
+
+## Postconditions
+[État du système après l'action: L'utilisateur à un compte à son nom]
+
+## Éléments techniques (Backend)
+- **Route(s) :** [Ex: POST /login]
+- **Modèle(s) concerné(s) :** [Ex: User]
+- **Tables impactées :** [Ex: users]
