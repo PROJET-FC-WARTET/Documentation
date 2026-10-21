@@ -49,8 +49,8 @@ Ce fichier liste tous les Use Cases du projet avec leur numéro, leur titre et l
 | UC-17 | Accès aux recettes financières du club | ⚠️ MIS EN ATTENTE ⚠️ | #44 | `UC-17-Acces-recettes-financieres-club.md` |
 | UC-18 | Vérification de l'ordre des cotisations | 📝 À faire | #45 | `UC-18-Verification-ordre-cotisations.md` |
 | UC-19 | Relance des parents/joueurs pour cotisations | 📝 À faire | #46  `UC-19-Relance-Parents/Joueurs-cotisations.md` |
-| UC-20 | À été supprimé de la liste | ❌ Fermé | 
-| UC-21 | À été supprimé de la liste | ❌ Fermé | 
+| UC-20 | À été supprimé de la liste | | | | ❌ Fermé | 
+| UC-21 | À été supprimé de la liste | | | | ❌ Fermé || ❌ Fermé | 
 | UC-22 | Gestion des présences | 📝 À faire | #52 |  `UC-22-Gestion-présences.md` |
 | UC-23 | Gestion des horaires et réservation des terrains | 📝 À faire | #53 |  `UC-23-Gestion-horraire&reservation-terrain.md` |
 | UC-24 | Canal de communication Coach-Joueurs | ⚠️ MIS EN ATTENTE ⚠️ | #54 |  `UC-24-Canal-Communication-CoachJoueurs.md` |
