@@ -7,10 +7,11 @@ Ce fichier liste tous les Use Cases du projet avec leur numéro, leur titre et l
 > - Toujours ajouter le nouveau numéro à la fin de la liste.
 > - Mettre à jour ce fichier à chaque création ou fermeture d'un UC.
 
-**Dernier numéro attribué : UC-12**
-**Prochain numéro disponible : UC-13**
+**Dernier numéro attribué : UC-25**
+**Prochain numéro disponible : UC-26**
 
-⚠️ **Les issues encore présentes et au dela de UC-12 ne doivent pas être récupérées ou traitées pour l'instant. j'attends l'aval du professeur pour tout supprimer et tout réintroduire avec les bonnes informations et la bonne numérotation.** ⚠️ce message pourra être supprimé lors de la prochaine MAJ du facier **(date>06/10/2026)**⚠️
+⚠️ ** UC 17 & 25 devront être mis à jour selon les nouveauwx besoins. ** ⚠️
+
 ---
 
 ## Légende des statuts
@@ -41,12 +42,24 @@ Ce fichier liste tous les Use Cases du projet avec leur numéro, leur titre et l
 | UC-10 | Consultation des informations de son enfant | ✅ Terminé | #15 | `UC-10-informations-enfant.md` | ✅
 | UC-11 | Consultation des événements du club | ✅ Terminé | #16 | `UC-11-consultation-evenements.md` | ❌
 | UC-12 | Gestion du planning des événements | 📝 À faire | #39 | `UC-12-consultation-actualites.md` |
+| UC-13 | Supprimé
+| UC-14 | Accès au planning | 📝 À faire | #41 | `UC-14-AccesPlanning.md` |
+| UC-15 | Ajout d'articles au stock | 📝 À faire | #42 | `UC-15-Ajout-Articles-stock.md` |
+| UC-16 | Décrémentation d'articles au stock buvette | 📝 À faire | #43 | `UC-16-Decrementation-Articles-stock.md` |
+| UC-17 | Accès aux recettes financières du club | ⚠️ MIS EN ATTENTE ⚠️ | #44 | `UC-17-Acces-recettes-financieres-club.md` |
+| UC-18 | Vérification de l'ordre des cotisations | 📝 À faire | #45 | `UC-18-Verification-ordre-cotisations.md` |
+| UC-19 | Relance des parents/joueurs pour cotisations | 📝 À faire | #46  `UC-19-Relance-Parents/Joueurs-cotisations.md` |
+| UC-20 | À été supprimé de la liste | ❌ Fermé | 
+| UC-21 | À été supprimé de la liste | ❌ Fermé | 
+| UC-22 | Gestion des présences | 📝 À faire | #52 |  `UC-22-Gestion-présences.md` |
+| UC-23 | Gestion des horaires et réservation des terrains | 📝 À faire | #53 |  `UC-23-Gestion-horraire&reservation-terrain.md` |
+| UC-24 | Canal de communication Coach-Joueurs | ⚠️ MIS EN ATTENTE ⚠️ | #54 |  `UC-24-Canal-Communication-CoachJoueurs.md` |
+| UC-25 | Visionner les statistiques des joueurs | 📝 À faire | #55 |  `UC-25-Visionner-Stats-Joueurs.md` |
 
 
 ---
 ## À ajouter
-| UC-?? | Lier un acteur à un utilisateur (CDD) | 📝 À faire | #? | `UC-04-liaison-Acteur-CDD.md` |
-| UC-?? | Lier un acteur à un utilisateur (CDI) | 📝 À faire | #? | `UC-04-liaison-Acteur-CDI.md` |
+
 ...
 
 ## À modifier
@@ -68,3 +81,4 @@ Est ce que l'on garde le UC ? Est ce qu'on doit le renommer ? Le supprimer ?
 | :--- | :--- |
 | 01/10/2026 | Création de l'index avec les UC-01 à UC-32 |
 | 06/10/2026 | Modification de la numérotation des UC de 1 à 11 + suppression des issues doublons mais non traités + liaison en doulon des issues liées et traitées.
+| 21/10/2026 | Modification des UC qui n'étaient plus à jour + Suppression des UC hors scope + ajouts des UC de 12 à 25 + Mise en attente de 17 & du 24
