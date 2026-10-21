@@ -30,16 +30,16 @@ Ce fichier liste tous les Use Cases du projet avec leur numéro, leur titre et l
 
 | # | Titre | Statut | Issue | Fichier | En attente de vérification ? |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| UC-01 | Connexion d'un utilisateur | ✅ Terminé | #6 | `UC-01-connexion.md` | ❌
+| UC-01 | Connexion d'un utilisateur | ✅ Terminé | #6 | `UC-01-connexion.md` | ✅ Terminé
 | UC-02 | Création d'un compte par l'Admin | 📝 À faire | #29 | `UC-02-creation-compte.md` | 
 | UC-03 | Attribution des rôles à un utilisateur | 📝 À faire | #8 | `UC-03-attribution-roles.md` |  
 | UC-04 | Déconnexion d'un utilisateur | 📝 À faire | #9 | `UC-04-liaison-Acteur-CDI.md` |
-| UC-05 | Consultation de la liste des joueurs | ❌ Fermé | #32 | `UC-05-Consultation-liste-joueurs.md` |❌ 
+| UC-05 | Consultation de la liste des joueurs | ❌ Fermé | #32 | `UC-05-Consultation-liste-joueurs.md` |✅ Terminé
 | UC-06 | Supprimer un utilisateur | 📝 À faire | #33 | `UC-06-supprimer-utilisateur.md` |
 | UC-07 | Créer une sauvegarde de la DB | 📝 À faire | #34 | `UC-07-sauvegarde-DB.md` |
-| UC-08 | Signalement d'absence avec motif | ✅ Terminé | #13 | `[Docs]-08-Signalement_dabsence.md #26` | ❌  
-| UC-09 | Réponse à une convocation | ✅ Terminé mais à modifier | #14 | `[Docs]09-Reponse-convoc.md` | ✅
-| UC-10 | Consultation des informations de son enfant | ✅ Terminé | #15 | `UC-10-informations-enfant.md` | ✅
+| UC-08 | Signalement d'absence avec motif | ✅ Terminé | #13 | `[Docs]-08-Signalement_dabsence.md #26` | ✅ Terminé  
+| UC-09 | Réponse à une convocation | ✅ Terminé mais à modifier | #14 | `[Docs]09-Reponse-convoc.md` | ✅ Terminé
+| UC-10 | Consultation des informations de son enfant | ✅ Terminé | #15 | `UC-10-informations-enfant.md` | ✅ Terminé
 | UC-11 | Consultation des événements du club | ✅ Terminé | #16 | `UC-11-consultation-evenements.md` | ❌
 | UC-12 | Gestion du planning des événements | 📝 À faire | #39 | `UC-12-consultation-actualites.md` |
 | UC-13 | Supprimé
@@ -50,7 +50,7 @@ Ce fichier liste tous les Use Cases du projet avec leur numéro, leur titre et l
 | UC-18 | Vérification de l'ordre des cotisations | 📝 À faire | #45 | `UC-18-Verification-ordre-cotisations.md` |
 | UC-19 | Relance des parents/joueurs pour cotisations | 📝 À faire | #46  `UC-19-Relance-Parents/Joueurs-cotisations.md` |
 | UC-20 | À été supprimé de la liste | | | | ❌ Fermé | 
-| UC-21 | À été supprimé de la liste | | | | ❌ Fermé || ❌ Fermé | 
+| UC-21 | À été supprimé de la liste | | | | ❌ Fermé | 
 | UC-22 | Gestion des présences | 📝 À faire | #52 |  `UC-22-Gestion-présences.md` |
 | UC-23 | Gestion des horaires et réservation des terrains | 📝 À faire | #53 |  `UC-23-Gestion-horraire&reservation-terrain.md` |
 | UC-24 | Canal de communication Coach-Joueurs | ⚠️ MIS EN ATTENTE ⚠️ | #54 |  `UC-24-Canal-Communication-CoachJoueurs.md` |
