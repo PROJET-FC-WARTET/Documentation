@@ -10,7 +10,7 @@ Ce fichier liste tous les Use Cases du projet avec leur numéro, leur titre et l
 **Dernier numéro attribué : UC-25**
 **Prochain numéro disponible : UC-26**
 
-⚠️ ** UC 17 & 25 devront être mis à jour selon les nouveauwx besoins. ** ⚠️
+⚠️ ** UC 17 & 24 devront être mis à jour selon les nouveauwx besoins. ** ⚠️
 
 ---
 
