@@ -7,8 +7,8 @@ Ce fichier liste tous les Use Cases du projet avec leur numéro, leur titre et l
 > - Toujours ajouter le nouveau numéro à la fin de la liste.
 > - Mettre à jour ce fichier à chaque création ou fermeture d'un UC.
 
-**Dernier numéro attribué : UC-30**
-**Prochain numéro disponible : UC-31**
+**Dernier numéro attribué : UC-31**
+**Prochain numéro disponible : UC-32**
 
 ⚠️ **  ** ⚠️
 
@@ -60,6 +60,7 @@ Ce fichier liste tous les Use Cases du projet avec leur numéro, leur titre et l
 | UC-28 | Traitement des modifications critiques de planning par le Responsable | 📝 À faire | #65 |  `SchemaUC-28-TraitementModificationsCritiquesPlanning-RESPONSABLE.md` |
 | UC-29 | Modification du horaires des coachs par le Coordinateur | 📝 À faire | #66 |  `SchemaUC-29-ModificationsHorrairesCoach-COORDINATEUR.md` |
 | UC-30 |  Ajouter des bénévoles au planning | 📝 À faire | #67 |  `SchemaUC-30-AjoutBenevolesPlanning.md` |
+| UC-31 |  Consulter et modifier les informations du compte  | 📝 À faire | #69 |  `SchemaUC-31-ModificationProfil-ToutUser` |
 
 
 ---
